@@ -1,0 +1,55 @@
+body {
+background-color: rgb(83, 193, 236);
+}
+
+h1{ 
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: blue;
+}
+
+#org{
+    text-align: center;
+}
+#int{
+    text-align: center;
+    font-size: 150%;
+    color: rgb(12, 75, 75);
+}
+
+#mapa{
+    margin-left: 30%;
+}
+
+#lem{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align:left;
+}
+
+ol{
+    display: inline-block;
+}
+
+#cond{
+    text-align: center;
+    font-size: 150%;
+}
+.int{
+    display:inline-block;
+    width: 200px;
+    height: 200px;
+    margin-left: 5%;
+    }
+
+.vul{
+    display:inline;
+    margin-bottom: 5%;
+    width: 120px;
+    height: 160px;
+}
